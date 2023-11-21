@@ -1,0 +1,132 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD OLEDB
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD OLEDB
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD OLEDB
+    internal_properties : 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
+    configuration_id : 8658575670876551583
+    type : 1
+    generation_name : WD OLEDB.exe
+    version :
+     version : VI200066P
+     autoincrement_version : false
+    icon_filename : .\App.ico
+    language : 2
+ elements :
+  identifier : 0x4af448ba001501d7
+  elements :
+   -
+     name : TEST_WIN_Form_Customers
+     identifier : 0x467fe617000c6c97
+     internal_properties : CAAAAAgAAAAkIgwol8xkBy5U36akntXwtMEDCzLcLTOURyS921VHoa9T9B4TMAzpe6cR77cp0ccxMQ==
+     physical_name : .\TEST_WIN_Form_Customers.wxt
+     type : 17
+   -
+     name : TEST_WIN_Customers_Table
+     identifier : 0x467fe602000b1ace
+     internal_properties : CAAAAAgAAABGzK7yMW5GaUymJQj+Oa82JqWNJYbQBfe4rvmo7DTYyDiKvcV5imK/DQnzzVWLd2lT0w==
+     physical_name : .\TEST_WIN_Customers_Table.wxt
+     type : 17
+   -
+     name : WIN_Form_Customers
+     identifier : 0x41b5fd4200080b9d
+     internal_properties : CAAAAAgAAABg3lhEY9hQCyJYw6pYZM3YkKHfN6R0wWfhC+QZDwsJ5xEx3iQfLADdb6sV46NdJZtl7Q==
+     physical_name : .\WIN_Form_Customers.WDW
+     type : 2
+   -
+     name : WIN_Customers_Table
+     identifier : 0x41b5fd3e0007fbde
+     internal_properties : CAAAAAgAAADjX9vP/KkBGjMpuAPxDkRnC7TWNp+v2Vn9KaqdKREN6xnHZqyGhWdCgLwmkhLOqh7mbg==
+     physical_name : .\WIN_Customers_Table.WDW
+     type : 2
+   -
+     name : QRY_Customers
+     identifier : 0x3e30113e400d9f38
+     internal_properties : CAAAAAgAAADWvD5iQT52edw2tTjOLI+2LkONfc2lVtp2halhJktBl61hqthpmnJPnZkD/YV7B/nDQw==
+     physical_name : .\QRY_Customers.WDR
+     type : 5
+   -
+     name : WD OLEDB - Global Procedures
+     identifier : 0x3e30113f55cd9f48
+     internal_properties : CAAAAAgAAABTr4ufLBkRyuMZqJNhUICry+iWTpwYs26W3QXH8CtrtU+BpN5W9dcysGxWomKeWk62vg==
+     physical_name : .\WD OLEDB - Global Procedures.wdg
+     type : 7
+   -
+     name : RPT_Customers_Table
+     identifier : 0x3e30114462719fb5
+     internal_properties : CAAAAAgAAACgnpiEIxgQy+IYg+oYWP2w0EGPZ0oUZ128bSJHoU9Fm61lquhf7MAdr2tVo2OdZVulrQ==
+     physical_name : .\RPT_Customers_Table.wde
+     type : 3
+  other_elements : []
+  analysis : .\WD OLEDB.ana\WD OLEDB.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAAAdMs2aK5nYOEZlXtGnT/U2O3Pt8/g1LqIaHhMuzh/4b5WFkcQVkNF+ScXsHroG2DTFi5YRQgN7hsogT7l5AZbUdmY3Rijflp91
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACXYYFZ12BIQuW243zI83ZPTUfW4F47z99d/IcK7PEpsXf6qPztlsUttnXTqmhWOyTtGHh4Bn6TR1MCSXorhQFhqJzFMKw9ZSc1f+thiQ87RyYMVVQ18A+upQ2GcXIWpg1sNAj2sVaxF6e6azA=
+     code : |1-
+      GLOBAL
+      gbOLEDB is boolean	// True if the current OLE DB database
+      
+      // Describe the OLE DB connection
+      HOpenConnection(“CntAccess”, “”, “”, <§@00000000000000000000§> , “”, hOledbAccess2000, hOReadWrite, “”)
+      
+      // Default Access database
+      AccessConnection()
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD OLEDB
+     identifier : 0x4af448ba001d0235
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Customers.mdb
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
